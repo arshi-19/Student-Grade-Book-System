@@ -1,0 +1,27 @@
+.admin-container {
+    padding: 20px;
+    font-family: sans-serif;
+    width: 600px;
+    height: 600px;
+    text-align: center;
+    height: fit-content;
+  }
+  .body{
+    text-align: center;
+    box-sizing: content-box;
+    box-shadow: 10px;
+    height: 50vh;
+    justify-content: center;
+    padding-bottom: 50px;
+  
+  }
+
+  form {
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    text-align: center;
+    height: 50vh;
+    padding-left: 10px;
+    padding-right: 60px;
+  }

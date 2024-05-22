@@ -1,0 +1,138 @@
+/* Home.css */
+
+.home-container {
+    text-align: center;
+    padding: 200px;
+    background-image: url('2.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: 400px;
+    width: auto;
+
+  }
+  
+  h2 {
+    color: #fff; /* Set text color to make it readable on the background */
+  }
+  
+  .button-container {
+    margin-top: 20px;
+  }
+  
+  /* Style for the buttons */
+  .Button {
+    margin-right: 10px;
+  }
+  
+  /* Add more styles based on your design preferences */
+  .admin{
+    text-align: center;
+    padding: 200px;
+    background-image: url('7.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: 400px;
+    width: auto;
+  }
+  .register{
+    text-align: center;
+    padding: 200px;
+    background-image: url('3.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: 400px;
+    width: auto;
+  
+  }
+  .login{
+    text-align: center;
+    padding: 200px;
+    background-image: url('3.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: 400px;
+    width: auto;
+  
+  }
+  .student{
+    text-align: center;
+    padding: 200px;
+    background-image: url('5.jpeg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: 400px;
+    width: auto;
+
+  }
+  .button{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+   
+    transform: translateX(-50%);
+    background-color: #3498db;
+    color: #fff;
+    padding: 10px,20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  .profile-button{
+    margin:0 10px;
+    position: relative;
+  }
+  .profile-image{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  .Studentlist{
+    text-align: center;
+    padding: 200px;
+    background-image: url('8.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: AUTO;
+    width: auto;
+
+  }
+  .addstudent{
+    text-align: center;
+    padding: 200px;
+    background-image: url('8.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: auto;
+    width: auto;
+
+  }
+  .editstudent{
+    text-align: center;
+    padding: 200px;
+    background-image: url('8.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: auto;
+    width: auto;
+
+  }.trash{
+    text-align: center;
+    padding: 200px;
+    background-image: url('8.jpg'); /* Replace 'path/to/your/image.jpg' with the actual path to your image file */
+    background-size: 100% 100%;
+    background-position: center;
+    color: #fff; /* Set text color to make it readable on the background */
+    height: 400px;
+    width: auto;
+
+  }
